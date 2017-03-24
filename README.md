@@ -1,6 +1,6 @@
 # dockerized-docs-chef
 
-# What is it?#
+# What is it?
 Dockerzied Chef documentation for offline use.
 
 # Image description #
