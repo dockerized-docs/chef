@@ -4,8 +4,8 @@
 Dockerzied Chef documentation for offline use.
 
 # Image description #
-- Base image: `httpd:2.4.23-alpine`.
-- The most current ansible `master` branch is cloned and built using Sphinx documentation generator.
+- Base image: `httpd:2.4.23-alpine`
+- The most current ansible `master` branch is cloned and built using Sphinx documentation generator
 - Chef documentation directory (`/chef-web-docs/build`) is linked to httpd `DocumentRoot` (`/usr/local/apache2/htdocs`)  
 
 # How to use this image #
